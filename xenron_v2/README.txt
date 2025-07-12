@@ -1,5 +1,5 @@
 
-xenRon â€“ A Learning AI with Semantic Memory
+xenRonAi a Learning AI with Semantic Memory
 ===========================================
 
 xenRon is an intelligent assistant capable of learning from multiple sources, associating concepts, and answering questions based on stored knowledge. It uses semantic vector embeddings, a local SQLite database, and external APIs to process and understand user input.
